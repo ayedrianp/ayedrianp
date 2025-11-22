@@ -6,7 +6,7 @@ I am a current student at Western Governors University pursuing my B.S in Cybers
 ## Objective
 
 
-My journey in IT has led me to develop a passion for cybersecurity, and I now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in IT has led me to develop a passion for working on projects I find interesting and to gain deeper knowledge of tools and processes with projects I am interested in. I'll be documenting and updating this page over time. Thanks for stopping by.
 
 ## Skills
 | Skill                                           | Associated Project                             |
@@ -21,13 +21,6 @@ My journey in IT has led me to develop a passion for cybersecurity, and I now ea
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-</div>
-
-### 	Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
 
 ### SIEM
 <div>
@@ -37,3 +30,16 @@ My journey in IT has led me to develop a passion for cybersecurity, and I now ea
 ### Zero Trust Network Access
 
 <img src="https://img.shields.io/badge/-Tailscale-000000?&style=for-the-badge&logo=tailscale&logoColor=white" />
+</div>
+
+## Projects
+
+| Project              | Status      | Notes                              |
+|----------------------|-------------|------------------------------------|
+| PLex Media Server    | Completed   | Compiling documentation for upload |
+| PwnBox Hack The Box  | Completed   | Using it for HTB Academy and CTF rooms |
+| Live Streaming PC    | In Progress |                                    |
+| Tailscale Integration| Completed   | Compiling documents for upload     |
+| Honeypot             | Planning    | Making sure I have this separated from the network |
+| Home Assistant       | 
+</div>

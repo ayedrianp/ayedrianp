@@ -14,6 +14,8 @@ My journey in IT has led me to develop a passion for working on projects I find 
 | SIEM Implementation and Log Analysis            | <a href="https://github.com/ayedrianp/wazuh-suricata-integration-lab/tree/main">Wazuh-Suricata Integration Lab</a> |
 | Network Traffic Monitoring and Attack Detection |  |
 | Security Event Correlation and Alerting         |  |
+| Project Management ITSM                         | <a href="https://github.com/ayedrianp/YouTrack-Project-Management">YouTrack-Project-Management</a> |
+| Ticket Management                               |  |
 
 ## Tools
 

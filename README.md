@@ -17,6 +17,9 @@ My journey in IT has led me to develop a passion for working on projects I find 
 
 ## Tools
 
+## Hypervisor
+<img src="https://img.shields.io/badge/-Plex-E5A00D?style=for-the-badge&logo=plex&logoColor=white" />
+
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
@@ -31,6 +34,12 @@ My journey in IT has led me to develop a passion for working on projects I find 
 
 <img src="https://img.shields.io/badge/-Tailscale-000000?&style=for-the-badge&logo=tailscale&logoColor=white" />
 </div>
+
+## Project Management
+
+<img src="https://img.shields.io/badge/-YouTrack-007ACC?&style=for-the-badge&logo=youtrack&logoColor=white" />
+
+
 
 ## Projects
 

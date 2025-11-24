@@ -21,7 +21,16 @@ My journey in IT has led me to develop a passion for Cybersecurity and working o
 
 ## Hypervisor
 [![Proxmox](https://img.shields.io/badge/-Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)](https://www.proxmox.com/)
-<img src="https://img.shields.io/badge/-Plex-E5A00D?style=for-the-badge&logo=plex&logoColor=white" />
+
+## OS 
+[![Windows 11](https://img.shields.io/badge/-Windows-0078D4?style=for-the-badge&logo=windows11&logoColor=white)](https://www.microsoft.com/windows/)
+[![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)](https://www.kali.org/)
+[![Parrot OS](https://img.shields.io/badge/-Parrot_OS-15D0E8?style=for-the-badge&logo=parrot-security&logoColor=white)](https://www.parrotsec.org/)
+[![Alpine Linux](https://img.shields.io/badge/-Alpine_Linux-0D597F?style=for-the-badge&logo=alpine-linux&logoColor=white)](https://alpinelinux.org/)
+
+## Media
+[![Plex](https://img.shields.io/badge/-Plex-E5A00D?style=for-the-badge&logo=plex&logoColor=white)](https://www.plex.tv/)
+
 ## Containers
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Docker Compose](https://img.shields.io/badge/-Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docs.docker.com/compose/)

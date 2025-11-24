@@ -20,26 +20,30 @@ My journey in IT has led me to develop a passion for Cybersecurity and working o
 ## Tools
 
 ## Hypervisor
+[![Proxmox](https://img.shields.io/badge/-Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)](https://www.proxmox.com/)
 <img src="https://img.shields.io/badge/-Plex-E5A00D?style=for-the-badge&logo=plex&logoColor=white" />
+## Containers
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Docker Compose](https://img.shields.io/badge/-Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docs.docker.com/compose/)
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+### Network Analysis
 
-### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Wazuh-005571?&style=for-the-badge&logo=wazuh&logoColor=white" />
+    
+[![Wazuh](https://img.shields.io/badge/-Wazuh-005571?style=for-the-badge&logo=wazuh&logoColor=white)](https://wazuh.com/)
+[![Suricata](https://img.shields.io/badge/-Suricata-EF3B2D?style=for-the-badge&logo=suricata&logoColor=white)](https://suricata.io/)
+[![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)](https://www.wireshark.org/)
+
 </div>
 
 ### Zero Trust Network Access
 
-<img src="https://img.shields.io/badge/-Tailscale-000000?&style=for-the-badge&logo=tailscale&logoColor=white" />
+[![Tailscale](https://img.shields.io/badge/-Tailscale-000000?style=for-the-badge&logo=tailscale&logoColor=white)](https://tailscale.com/)
 </div>
 
 ## Project Management
 
-<img src="https://img.shields.io/badge/-YouTrack-007ACC?&style=for-the-badge&logo=youtrack&logoColor=white" />
+[![YouTrack](https://img.shields.io/badge/-YouTrack-B345F1?style=for-the-badge&logo=jetbrains&logoColor=white)](https://www.jetbrains.com/youtrack/)
 
 
 

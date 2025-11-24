@@ -6,7 +6,7 @@ I am a current student at Western Governors University pursuing my B.S in Cybers
 ## Objective
 
 
-My journey in IT has led me to develop a passion for working on projects I find interesting and to gain deeper knowledge of tools and processes with projects I am interested in. I'll be documenting and updating this page over time. Thanks for stopping by.
+My journey in IT has led me to develop a passion for Cybersecurity and working on projects I find interesting to gain deeper knowledge of tools and processes. I'll be documenting and updating this page over time. Thanks for stopping by.
 
 ## Skills
 | Skill                                           | Associated Project                             |

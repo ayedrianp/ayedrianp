@@ -60,10 +60,10 @@ My journey in IT has led me to develop a passion for Cybersecurity and working o
 
 | Project              | Status      | Notes                              |
 |----------------------|-------------|------------------------------------|
-| PLex Media Server    | Completed   | Compiling documentation for upload |
-| PwnBox Hack The Box  | Completed   | Using it for HTB Academy and CTF rooms |
-| Live Streaming PC    | In Progress |                                    |
+| Plex Media Server    | Completed   | Compiling documentation for upload |
+| SafePoint WAF    | Documenting   | exploring feature set /integration |
+| PwnBox Hack The Box  | Completed   | HTB Academy and CTF rooms |
 | Tailscale Integration| Completed   | Compiling documents for upload     |
-| Honeypot             | Planning    | Making sure I have this separated from the network |
-| Home Assistant       | 
+| Honeypot             | Planning    | |
+| Home Assistant       | Hold
 </div>
